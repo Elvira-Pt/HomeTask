@@ -1,0 +1,1 @@
+grep -E "\bgene\b.*\-.*name=([^AHZ])[A-Z0-9]{3,}"
